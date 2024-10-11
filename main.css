@@ -1,0 +1,89 @@
+/* css cho login */
+.banner {
+    height: 120px;
+    background-image: url(../assets/img/Breadcrumbs.png);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+
+.login svg {
+    margin-top: -5px;
+    margin-left: 50px;
+}
+
+.login i {
+    margin-top: 50px;
+}
+
+.login a {
+    margin-left: 2px;
+    margin-top: 50px;
+    text-decoration: none;
+    color: green;
+}
+
+.formlogin {
+    border: 1px solid lightgrey;
+    padding:35px;
+    width: 500px;
+}
+
+.formlogin .remember {
+    padding-right: 180px;
+    color: gray;
+}
+
+.formlogin .forgotpass {
+    color: gray;
+    text-decoration: none;
+}
+
+.formlogin .button {
+    width: 100%;
+    border-radius: 40px;
+}
+
+.formlogin p {
+    color: gray;
+}
+
+.formlogin .signup {
+    text-decoration: none;
+    font-weight: 600;
+    color: black;
+}
+
+.briged {
+    padding: 50px;
+}
+
+.briged .youremail {
+    width: 315px;
+}
+
+.footer {
+    background-color: #262626;
+    width: 100%;
+    height: 400px;
+}
+
+.footer p {
+    color: lightgray;
+}
+
+.footer b {
+    color: white;
+}
+/* css cho login */
+
+/* css cho home */
+.nav2 a {
+    color: white;
+}
+
+.listanh {
+    margin-top: 15px;
+    width: 1350px;
+    border-radius: 500px;
+}
